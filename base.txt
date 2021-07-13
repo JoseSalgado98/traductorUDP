@@ -1,0 +1,10 @@
+computadora-computer
+reloj-clock
+lampara-lamp
+blanco-white
+auto- car
+cargador-charger
+hola-hi
+perro-dog
+casa-house
+
